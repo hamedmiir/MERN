@@ -1,3 +1,3 @@
 # MERN
-A simple MERN (Mongo DB, Express, Rect, Node) application.
+A simple MERN (Mongo DB, Express, Rect, Node) application.  
 (Demo)
